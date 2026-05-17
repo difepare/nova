@@ -1,12 +1,5 @@
 {
-  "buildCommand": "",
+  "buildCommand": "vite build",
   "outputDirectory": "dist",
-  "installCommand": "",
-  "framework": null,
-  "devCommand": "",
-  "functions": {
-    "dist/**": {
-      "runtime": "edge"
-    }
-  }
+  "installCommand": "pnpm install"
 }
